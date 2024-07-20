@@ -12,3 +12,8 @@ label {
   display: block;
   margin: 0.5rem 0;
 }
+
+h1, p {
+  text-align: center;
+  margin: 1em auto;
+}
