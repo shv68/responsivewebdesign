@@ -54,3 +54,8 @@ input, textarea {
   color: #ffffff;
   
 }
+
+input[type="submit"]{
+  display: block;
+  width:60%;
+}
