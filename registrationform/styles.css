@@ -17,3 +17,10 @@ h1, p {
   text-align: center;
   margin: 1em auto;
 }
+
+form {
+  margin: 0 auto;
+  max-width: 500px;
+  min-width: 300px;
+  width: 60vw;
+}
