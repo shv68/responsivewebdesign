@@ -22,10 +22,12 @@ h1 {
 
 .green {
 	background: linear-gradient(180deg, #55680D, #71F53E, #116C31);
+	box-shadow: 0px 0px 20px 0px green;
 }
 
 .blue {
 	background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
+	box-shadow: 0px 0px 20px 0px blue;
 }
 .sleeve {
   width: 110px;
