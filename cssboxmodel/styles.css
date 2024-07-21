@@ -33,3 +33,7 @@
 	background-color: #b20403;
 	margin: 0 auto 20px;
 }
+
+.one, .two {
+	filter: blur(1px);
+}
