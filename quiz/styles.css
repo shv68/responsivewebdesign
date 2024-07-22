@@ -48,6 +48,8 @@ h1, h2 {
 
 h2 {
   border-bottom: 4px solid #dfdfe2;
+  margin-top: 0;
+  padding-top: 60px;
 }
 
 p::before{
@@ -90,4 +92,8 @@ section {
   margin: auto;
   margin-top: 0;
   margin-bottom: 10px
+}
+
+.info {
+  padding: 10px 0 0 5px;
 }
