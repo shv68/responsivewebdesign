@@ -1,3 +1,9 @@
+@media (prefers-reduced-motion: no-preference) {
+  * {
+    scroll-behavior: smooth;
+  }
+}
+
 #logo {
   width: max(10rem, 18vw);
   background-color: #0a0a23;
@@ -160,4 +166,13 @@ footer {
   background-color: #2a2a40;
   display: flex;
   justify-content: center;
+}
+
+footer, footer a {
+  color: #dfdfe2
+}
+
+address {
+  text-align: center;
+  padding: 0.3em;
 }
