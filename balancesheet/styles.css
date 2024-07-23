@@ -71,3 +71,11 @@ section {
 span {
   font-weight: normal;
 }
+
+table {
+  border-collapse: collapse;
+  border: 0;
+  width: 100%;
+  position: relative;
+  margin: 3rem 0 0 0;
+}
