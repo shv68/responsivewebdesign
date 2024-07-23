@@ -68,9 +68,6 @@ section {
   padding: 0 0.75rem 1.5rem 0.75rem;
 }
 
-span {
-  font-weight: normal;
-}
 
 table {
   border-collapse: collapse;
@@ -142,4 +139,10 @@ tr.data th .description{
   font-weight: normal;
   display: block;
   margin-right: -13.5rem;
+}
+
+tr.data td {
+  padding: 0.3rem 0.25rem 0;
+  vertical-align: top;
+  text-align: right;
 }
