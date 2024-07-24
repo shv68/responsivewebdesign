@@ -1,7 +1,7 @@
 @media (max-width: 768px) {
-  .card {
-    padding: 2rem;
-  }
+	#piano {
+		width: 358px;
+	}
 }
 
 *, ::before, ::after{
