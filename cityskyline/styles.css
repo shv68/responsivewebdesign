@@ -9,9 +9,7 @@
 	--window-color4: #8cb3d9;
 }
 
-@media (max-width: 1000px) {
-  
-}
+
 
 * {
   box-sizing: border-box;
@@ -294,3 +292,14 @@ body {
 );
 }
 
+@media (max-width: 1000px) {
+ .sky {
+  background: radial-gradient(
+      closest-corner circle at 15% 15%,
+      #ffcf33,
+      #ffcf33 20%,
+      #ffff66 21%,
+      #bbeeff 100%
+    );
+} 
+}
