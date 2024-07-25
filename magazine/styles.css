@@ -125,3 +125,7 @@ hr {
 .quote::after {
   content: ' "';
 }
+
+.text-with-images {
+  display: grid;
+}
