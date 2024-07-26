@@ -71,4 +71,7 @@
 }
 
 @keyframes wheel {
+  0% {
+    color: green;
+  }
 }
