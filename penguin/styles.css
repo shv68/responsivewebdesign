@@ -208,6 +208,7 @@ body {
 .arm.right {
   right: -5%;
   top: 0%;
+  transform: rotate(-45deg);
 }
 
 .foot {
