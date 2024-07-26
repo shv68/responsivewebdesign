@@ -72,6 +72,6 @@
 
 @keyframes wheel {
   0% {
-    color: green;
+    transform: rotate(0deg);
   }
 }
