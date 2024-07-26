@@ -198,6 +198,16 @@ body {
   background: linear-gradient(90deg, var(--penguin-skin), rgb(209, 210, 199));
 }
 
+.arm.left {
+  top: 35%;
+  left: 5%;
+}
+
+.arm.right {
+  right: -5%;
+  top: 0%;
+}
+
 .foot {
   width: 15%;
   height: 30%;
